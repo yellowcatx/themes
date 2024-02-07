@@ -7,21 +7,16 @@
 
 You can install the theme directly in Visual Studio Code. Open Visual Studio Code and navigate to the theme settings. Search for "Sleepy Code" and click install.
 
-Alternatively, you can install the theme by clicking [here](LINK-PARA-O-TEMA).
-
-
 ## Screenshots
 
 ![Sleepy Code Theme](https://github.com/yellowcatx/themes/blob/main/SleepyCode/screenshots/screenshot.jpeg)
 
 ## Contribution
 
-If you encounter any issues or want to contribute improvements, feel free to open an issue or submit a pull request in the [GitHub repository](https://github.com/your-username/sleepy-code).
+If you encounter any issues or want to contribute improvements, feel free to open an issue or submit a pull request in the [GitHub repository](https://github.com/yellowcatx).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
 
 ---
 
-**Developed by [Yellowcat](https://github.com/yellowcatx)**
+**Developed by [Yellowcatx](https://github.com/yellowcatx)**
+
