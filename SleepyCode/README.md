@@ -21,6 +21,4 @@ This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file
 
 ---
 
-**Developed by [Your Name](https://github.com/your-username)**
-
-[Link to Theme](#)
+**Developed by [Yellowcat](https://github.com/yellowcatx)**
