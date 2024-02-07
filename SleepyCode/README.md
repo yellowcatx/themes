@@ -9,7 +9,7 @@ You can install the theme directly in Visual Studio Code. Open Visual Studio Cod
 
 ## Screenshots
 
-![Sleepy Code Theme](/screenshots/sleepy-code-theme.png)
+![Sleepy Code Theme](https://github.com/yellowcatx/themes/blob/main/SleepyCode/screenshots/screenshot.jpeg)
 
 ## Contribution
 
