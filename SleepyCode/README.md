@@ -1,7 +1,5 @@
-# themes
 # Sleepy Code 🌙
 
-![Sleepy Code Logo](/assets/icon.png)
 
 **Sleepy Code** is a Visual Studio Code extension that provides a dark color theme with shades of purple, designed to offer a relaxing coding experience.
 
